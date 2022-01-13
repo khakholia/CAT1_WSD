@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="./ems.xsl"?>
 <Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:noNamespaceSchemaLocation="./ems.xsd">
-   <Employee Emp-id="1">
+   <Employee>
     <Emp-id>1</Emp-id>
     <Emp-name>Nikit Khakholia</Emp-name>
     <Emp-age>22</Emp-age>
@@ -11,7 +11,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
     <Emp-Phonenum>9864945505</Emp-Phonenum>
     <Emp-designation>SDE 1</Emp-designation>
    </Employee>
-   <Employee  Emp-id="2">
+   <Employee >
       <Emp-id>2</Emp-id>
       <Emp-name>Rohit P</Emp-name>
       <Emp-age>30</Emp-age>
@@ -20,7 +20,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
       <Emp-Phonenum>9237289180</Emp-Phonenum>
       <Emp-designation>SDE 2</Emp-designation>
      </Employee>
-     <Employee Emp-id="3">
+     <Employee>
       <Emp-id>3</Emp-id>
       <Emp-name>Ankur Sharma</Emp-name>
       <Emp-age>35</Emp-age>
@@ -29,7 +29,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
       <Emp-Phonenum>8267381920</Emp-Phonenum>
       <Emp-designation>SDE 3</Emp-designation>
      </Employee>
-     <Employee  Emp-id="4">
+     <Employee>
       <Emp-id>4</Emp-id>
       <Emp-name>Reuben Kurian</Emp-name>
       <Emp-age>40</Emp-age>
@@ -38,7 +38,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
       <Emp-Phonenum>1836278390</Emp-Phonenum>
       <Emp-designation>SDE 1</Emp-designation>
      </Employee>
-     <Employee  Emp-id="5">
+     <Employee>
       <Emp-id>5</Emp-id>
       <Emp-name>Jeetank R N</Emp-name>
       <Emp-age>45</Emp-age>
@@ -47,7 +47,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
       <Emp-Phonenum>1837592038</Emp-Phonenum>
       <Emp-designation>SDE 2</Emp-designation>
      </Employee>
-     <Employee  Emp-id="6">
+     <Employee>
       <Emp-id>6</Emp-id>
       <Emp-name>Krishna Bansal</Emp-name>
       <Emp-age>50</Emp-age>
@@ -56,7 +56,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
       <Emp-Phonenum>8632190378</Emp-Phonenum>
       <Emp-designation>SDE 3</Emp-designation>
      </Employee>
-     <Employee  Emp-id="7">
+     <Employee >
       <Emp-id>7</Emp-id>
       <Emp-name>Bijesh Thomas</Emp-name>
       <Emp-age>55</Emp-age>
@@ -65,7 +65,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
       <Emp-Phonenum>9263780178</Emp-Phonenum>
       <Emp-designation>SDE 1</Emp-designation>
      </Employee>
-     <Employee  Emp-id="8">
+     <Employee>
       <Emp-id>8</Emp-id>
       <Emp-name>Rachit Desai</Emp-name>
       <Emp-age>60</Emp-age>
@@ -74,7 +74,7 @@ xsi:noNamespaceSchemaLocation="./ems.xsd">
       <Emp-Phonenum>8732748930</Emp-Phonenum>
       <Emp-designation>SDE 2</Emp-designation>
      </Employee>
-     <Employee  Emp-id="9">
+     <Employee>
       <Emp-id>9</Emp-id>
       <Emp-name>Adarsh Verma</Emp-name>
       <Emp-age>20</Emp-age>
